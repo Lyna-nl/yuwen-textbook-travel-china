@@ -4,7 +4,7 @@
 
 ## 在线体验
 
-**[点击打开作品](https://genuine-conkies-63e88e.netlify.app/)**
+**[点击打开作品](https://lyna-textbook-travel-china.netlify.app/)**
 
 > 本仓库仅用于作品展示，不包含项目源代码、完整数据文件或离线资源包。
 
